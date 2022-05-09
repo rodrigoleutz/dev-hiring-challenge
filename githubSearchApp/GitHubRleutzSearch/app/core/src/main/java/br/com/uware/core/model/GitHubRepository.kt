@@ -14,7 +14,7 @@ data class GitHubRepository(
     val description: String?,
     val author: String?,
     val url: String?,
-    val owner: GitHubUser?,
+    val owner: GitHubUser,
     val language: String?,
     val stargazers_count: Int?,
     val watchers_count: Int?,

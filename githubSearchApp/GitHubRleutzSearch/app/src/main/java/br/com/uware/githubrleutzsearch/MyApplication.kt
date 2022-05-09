@@ -10,6 +10,6 @@ import dagger.hilt.android.HiltAndroidApp
  *
  * @author Rodrigo Leutz(rodrigo@uware.com.br).
  */
-@HiltAndroidApp
+//@HiltAndroidApp
 class MyApplication: Application() {
 }
